@@ -2,10 +2,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Ismail ki website</h1>
+    <div className="App App-header">
+      <h1 className="">Testing service</h1>
       <br />
-      <img src="../public/logo192.png" alt="ismail" />
+      <img src="/logo192.png" alt="ismail" />
     </div>
   );
 }
